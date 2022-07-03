@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Razorkdev and I'm from 🇪🇸</h1>
-<h3 align="center">I am a developer 🧑🏼‍💻 who loves to continue learning from any computer field, although what I really love is Python 🐍 , I am currently studying and working with both machine learning and data analysis, although I also investigate Java and other programming languages. 🖥</h3>
+<h3 align="center">I am a developer 🧑🏼‍💻 who loves to continue learning from any computer field, although what I really love is Python 🐍 , I am currently studying and working with both machine learning and data analysis, although I investigate Java and other programming languages. 🖥</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razorkdev&label=Profile%20views&color=0e29b4&style=flat" alt="razorkdev" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences **in my Linkedin and this profile 😉.**
 
-- 💬 Ask me about **anything I have been developed to help in any way I can🧑🏼‍💻 but especially Python 🐍!!!**
+- 💬 Ask me about **anything I have been developing to help in any way I can🧑🏼‍💻 but especially Python 🐍!!!**
 
 - 📫 How to reach me **Isra_developer@protonmail.com**
 
